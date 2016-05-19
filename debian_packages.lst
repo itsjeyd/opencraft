@@ -7,3 +7,4 @@ python-dev
 redis-server
 xvfb
 firefox
+postgresql-client
